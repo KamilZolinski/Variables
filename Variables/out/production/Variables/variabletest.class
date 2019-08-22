@@ -1,0 +1,12 @@
+Ęţşľ   8 <
+  	  
+     #
+  $ % & <init> ()V Code LineNumberTable LocalVariableTable this Lvariablestest; main ([Ljava/lang/String;)V args [Ljava/lang/String; num I num2 num3 total last 
+SourceFile variablestest.java  	 ' ( ) * + , BootstrapMethods - . / 0 + 1 
+variablestest java/lang/Object java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (I)V
+ 2 3 total=  makeConcatWithConstants (I)Ljava/lang/String; (Ljava/lang/String;)V 4 / 8 $java/lang/invoke/StringConcatFactory : Lookup InnerClasses (Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; ; %java/lang/invoke/MethodHandles$Lookup java/lang/invoke/MethodHandles !          	  
+   /     *· ±                    
+    	    
+   ±     57<=>``6˛ ¶ ˛ ş   ¶ čd6˛ ¶ ±       & 	        	      $ 
+ ,  4     >    5      2     /    	 ,     %    , 	          7   
+  5 9 6        !  "
